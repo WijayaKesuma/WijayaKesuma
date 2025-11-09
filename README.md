@@ -7,7 +7,7 @@
 ---
 
 ### 👋 Hi there, I'm Dekwaii!
-I'm a **frontend enthusiast** who loves learning and building things for the web.
+Exploring and improving my skills in web and technology.
 
 - 🎸 Hobbies: playing guitar, gaming, and coding  
 - 💻 Currently learning **JavaScript** and **Tailwind CSS**  
@@ -18,7 +18,7 @@ I'm a **frontend enthusiast** who loves learning and building things for the web
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,mysql,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,mysql,vscode,github" width="150" />
 </p>
 
 ---
