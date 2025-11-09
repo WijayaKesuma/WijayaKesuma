@@ -18,7 +18,7 @@ Exploring and improving my skills in web and technology.
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,mysql,vscode,github" width="150" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,mysql,vscode,github" width="200" />
 </p>
 
 ---
